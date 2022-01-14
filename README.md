@@ -19,8 +19,11 @@ Node version 14 , npm version 7.5+ , Cypress 9+
  Path : Shop-apotheke\cypress.env.json 
 
   `"USER_EMAIL"` : valid registered email for succesful login
+  
   `"USER_PASSWORD"` : valid registered password for succesful login
+  
   `"CUSTEMER_NUM"` : Kundennummer of the registered user. This will be generated after a succesful signup
+  
 
  Initialize it with valid customer details as below:
 
