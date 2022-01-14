@@ -1,0 +1,17 @@
+{
+  "name": "shop-apotheke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cy:headless": "cypress run",
+    "cy:chrome": "cypress run -b chrome"
+  },
+  "keywords": [],
+  "author": "Padmavathi Adapala",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.2.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "defaultCommandTimeout": 10000,
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "baseUrl": "https://www.shop-apotheke.com/nl/",
+    "chromeWebSecurity": false
+
+}
+  
