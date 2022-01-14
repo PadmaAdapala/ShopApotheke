@@ -14,8 +14,7 @@ Node version 14 , npm version 7.5+ , Cypress 9+
 
 ## Environmental Variables
 
- User credentials are parameterized and are stored as Environmental Variables
- Requires following env variables in cypress.env.json in below path.
+ User credentials are parameterized and are stored as Environmental Variables. Requires following env variables in cypress.env.json in below path.
  Path : Shop-apotheke\cypress.env.json 
 
   `"USER_EMAIL"` : valid registered email for succesful login
